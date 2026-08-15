@@ -51,6 +51,3 @@ Depois é só abrir o `atividadem4.html` com um duplo clique.
 └── atividadem4.js     # Lógica do cálculo do IMC
 ```
 
-## 👤 Autor
-
-Feito por **[Guilherme Augusto]** como parte das atividades do curso.
