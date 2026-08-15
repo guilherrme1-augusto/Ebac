@@ -53,4 +53,4 @@ Depois é só abrir o `atividadem4.html` com um duplo clique.
 
 ## 👤 Autor
 
-Feito por **[Seu Nome]** como parte das atividades do curso.
+Feito por **[Guilherme Augusto]** como parte das atividades do curso.
